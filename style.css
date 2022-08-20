@@ -1,0 +1,87 @@
+body {
+  background-image: url("https://conteudo.imguol.com.br/c/noticias/c8/2017/05/17/moedas-e-cedulas-de-paises-da-america-latina-na-exposicao-moedas-do-brasil-e-da-america-latina-1495030334413_1920x1080.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  align-items: center;
+  color: black;
+  font-family: sans-serif;
+}
+
+body .container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  transform: translateY(-50%) translateX(-50%);
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 2em 2em;
+  border-radius: 1em;
+  text-align: center;
+}
+
+body .container h1 {
+  font-size: 3em;
+  margin: 0;
+  line-height: 75%;
+}
+
+body .container h2 {
+  font-size: 1.4em;
+  margin: 10px 10px;
+}
+
+body .container p {
+  margin: 5px;
+}
+
+body .container input {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-style: none;
+  border-radius: 0.2em;
+  padding: 5px 0 5px 0;
+  text-align: center;
+}
+
+body .container *:focus {
+  outline: none;
+}
+
+body .container .converter {
+  font-weight: 700;
+  margin: 25px auto 0 auto;
+  background-color: #ffd700;
+  width: min-content;
+  border-radius: 0.1em;
+  cursor: pointer;
+}
+
+body .container .valor-final {
+  margin: auto;
+  font-style: italic;
+  padding: 0;
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffd700;
+}
