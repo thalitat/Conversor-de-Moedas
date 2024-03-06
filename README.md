@@ -7,4 +7,7 @@ O Conversor de Moedas é uma ferramenta simples, porém útil, desenvolvida util
 Participar deste projeto foi uma experiência gratificante, pois pude colaborar com uma comunidade diversificada de desenvolvedoras, compartilhar conhecimentos e aprender novas técnicas e práticas de programação.
 
 Confira o código no CodePen (https://codepen.io/thalitasoliveira/pen/KKYdeOe)
+
 Video Apresentação: (https://vimeo.com/920252496/19382de73f?share=copy)
+
+Feito 2022
